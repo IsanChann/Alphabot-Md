@@ -1,1 +1,1 @@
-worker: --db'd0qxogj.mongodb.net/?retryWrites=true&w=majority
+worker: node .--db'd0qxogj.mongodb.net/?retryWrites=true&w=majority
